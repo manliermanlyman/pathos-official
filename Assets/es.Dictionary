@@ -398,6 +398,7 @@ AppearanceName,yellow potion,poción amarilla
 AppearanceName,yellowish brown gem,gema marrón amarillenta
 AppearanceName,zinc wand,varita de zinc
 AppetiteName,content,satisfecho
+AppetiteName,engorged,
 AppetiteName,hungry,hambriento
 AppetiteName,satiated,saciado
 AppetiteName,starving,muriendo de hambre
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,Causas que todo a su alrededor sucumba en agresión y violencia. Incluso las entidades normalmente pacíficas se atacarán entre sí. Esta propiedad útil y peligrosa debe usarse con precaución. También sientes que tus niveles de nutrición están siendo debilitados por esta propiedad.
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,"Te sientes inestable, como si pudieras ser consumido por la ira en cualquier momento."
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,Tienes conocimiento de las entidades que se encuentran en otras partes de la mazmorra.
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,Descubres el estado divino de un ítem simplemente cogiéndolo.
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,Te mueves en un silencio espeluznante y no puedes pronunciar ni una sola sílaba en voz alta.
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,"Tus puntos de habilidad están fijos, no pueden disminuír pero tampoco mejorar."
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,petrificamiento
 PropertyName,phasing,cambio de fase
 PropertyName,polymorph,polimorfismo
 PropertyName,polymorph control,control de polimorfismo
+PropertyName,pyrokinetic,
 PropertyName,quickness,celeridad
 PropertyName,rage,rabia
 PropertyName,reflection,reflexion
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Altamente ascendidos servidores de el elemento de agua, pueden conjurar esferas explosivas a sus enemigos"
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,Una vida dedicada al estudio ha centrado tu aprendizaje en los libros a costa de otros hobbies y tu forma física.
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"El síndrome del personaje principal ha resultado en una fuerte dependencia en la armadura de trama, pero están destinados a vérselas con la vida real."
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","Inseguro de tu posición, estas acostumbrado a estar en todas partesal mismo tiempo."
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Esculpido en vidrio vivo que refleja la energia y refracta la luz, eres una emulación perfecta pero delicada de tu contraparte natural."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Todavía vivos por alguna razón, aunque sin la carne necesaria para estar realmente vivos, esta peculiar existencia tiene su ventajas."
@@ -4659,6 +4663,7 @@ SpecialName,midget,enano
 SpecialName,noble,noble
 SpecialName,protagonist,protagonista
 SpecialName,psychic,psíquico
+SpecialName,pyrokine,
 SpecialName,quantum,cuántico
 SpecialName,scholar,erudito
 SpecialName,shock,eléctrico

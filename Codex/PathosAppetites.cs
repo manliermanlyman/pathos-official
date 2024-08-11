@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
+using System.Xml.Linq;
 using Inv.Support;
 
 namespace Pathos
@@ -15,8 +17,11 @@ namespace Pathos
     {
       var Properties = Codex.Properties;
       var Glyphs = Codex.Glyphs;
+      var Strikes = Codex.Strikes;
+      var Elements = Codex.Elements;
+      var Sonics = Codex.Sonics;
 
-      Appetite AddStatus(string Name, Inv.Colour Colour, int Threshold, Action<AppetiteEditor> EditorAction)
+            Appetite AddStatus(string Name, Inv.Colour Colour, int Threshold, Action<AppetiteEditor> EditorAction)
       {
         return Register.Add(E =>
         {
@@ -29,6 +34,17 @@ namespace Pathos
         });
       }
 
+            engorged = AddStatus("engorged", Inv.Colour.IndianRed, 1300, A =>
+                  {
+        A.SpeedModifier = -1.50F;
+        A.PriceMultiplier = 1;
+        A.Interrupt = true;
+
+        A.SetSymptom(Chance.OneIn60, S =>
+        {
+            S.Harm(Elements.physical, 1.d5());
+        });
+       });
       satiated = AddStatus("satiated", Inv.Colour.DarkGreen, 1000, A =>
       {
         A.SpeedModifier = -0.25F; // overfed is a slight speed penalty.
@@ -87,6 +103,7 @@ namespace Pathos
     }
 #endif
 
+    public readonly Appetite engorged;
     public readonly Appetite satiated;
     public readonly Appetite content;
     public readonly Appetite hungry;

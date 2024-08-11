@@ -398,6 +398,7 @@ AppearanceName,yellow potion,معجون زرد
 AppearanceName,yellowish brown gem,گوهر قهوه ای مایل به زرد
 AppearanceName,zinc wand,چوب دستی روی
 AppetiteName,content,خشنود
+AppetiteName,engorged,
 AppetiteName,hungry,گشنه
 AppetiteName,satiated,سیر شده
 AppetiteName,starving,گشنگی در حال مرگ
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,
 PropertyName,phasing,
 PropertyName,polymorph,
 PropertyName,polymorph control,
+PropertyName,pyrokinetic,
 PropertyName,quickness,
 PropertyName,rage,
 PropertyName,reflection,
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",
@@ -4659,6 +4663,7 @@ SpecialName,midget,
 SpecialName,noble,
 SpecialName,protagonist,
 SpecialName,psychic,
+SpecialName,pyrokine,
 SpecialName,quantum,
 SpecialName,scholar,
 SpecialName,shock,

@@ -398,6 +398,7 @@ AppearanceName,yellow potion,pozione gialla
 AppearanceName,yellowish brown gem,gemma marrone giallastra
 AppearanceName,zinc wand,bacchetta di zinco
 AppetiteName,content,soddisfatto
+AppetiteName,engorged,
 AppetiteName,hungry,affamato
 AppetiteName,satiated,sazio
 AppetiteName,starving,morto di fame
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,"Ovunque vai, la tua presenza causa violenza e lotta tra le creature, anche quelle che normalmente sono pacifiche. Fai attenzione a non abusarne. Questa proprietà ti farà venir fame molto più velocemente."
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,Sei mentalmente instabile e a un passo da un attacco d'ira improvviso.
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,Hai percezione delle altre creature nel dungeon.
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,Riesci a capire lo stato divino degli oggetti prendendoli in mano.
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,Ti muovi con un silenzio tombale e non riesci a pronunciare nemmeno una parola.
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,I punteggi delle tue statistiche sono fissi e non potranno scendere o salire.
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,pietrificazione
 PropertyName,phasing,incorporeità
 PropertyName,polymorph,metamorfosi
 PropertyName,polymorph control,controllo della metamorfosi
+PropertyName,pyrokinetic,
 PropertyName,quickness,rapidità
 PropertyName,rage,ira
 PropertyName,reflection,immagine riflessa
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",Servitori altamente sintonizzati dell'acqua - possono evocare sfere esplosive per distruggere i loro nemici.
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,La vita di studio ha concentrato il tuo apprendimento sui libri a scapito di altri hobby e fitness.
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"La sindrome del personaggio principale ha portato a fare affidamento sull'armatura della trama, ma sono destinati a un importante controllo della realtà."
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","La tua posizione dello spazio è caotica e incerta; sei ormai abituato a essere ovunque, da nessuna parte e in ogni luogo."
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Scolpito da vetro vivente che riflette energia e rifrange luce, sei una delicata ma perfetta emulazione della tua controparte naturale."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","In qualche modo ancora viva, anche se senza la carne necessaria per essere veramente viva, questa peculiare esistenza ha alcuni vantaggi."
@@ -4659,6 +4663,7 @@ SpecialName,midget,nano
 SpecialName,noble,nobile
 SpecialName,protagonist,protagonista
 SpecialName,psychic,mentalista
+SpecialName,pyrokine,
 SpecialName,quantum,quantico
 SpecialName,scholar,studioso
 SpecialName,shock,elettrico

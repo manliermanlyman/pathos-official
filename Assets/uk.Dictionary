@@ -398,6 +398,7 @@ AppearanceName,yellow potion,жовте зілля
 AppearanceName,yellowish brown gem,жовтувато-коричневий самоцвіт
 AppearanceName,zinc wand,цинкова паличка
 AppetiteName,content,ситий
+AppetiteName,engorged,
 AppetiteName,hungry,голодний
 AppetiteName,satiated,об’ївся
 AppetiteName,starving,виснажений
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,"Ви пробуджуєте агресію і жорстокість в усіх навколо. Навіть зазвичай мирні істоти нападають на сусідів. Ця одночасно корисна і небезпечна властивість потребує обережності. Придбавши цю властивість, ви можете відчути зростаючий голод."
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,Ви почуваєтеся неврівноваженим і в будь-який момент можете впасти в лють.
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,Ви попереджені про присутність інших істот на даному рівні.
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,"Ви визначаєте духовний статус речі, просто піднявши її."
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,Ви рухаєтеся в моторошній тиші і не можете вимовити ані звука.
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,"Ваші характеристики закріплюються таким чином, що вони не здатні ані погіршитися, ані покращитися."
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,скам'яніння
 PropertyName,phasing,фазування
 PropertyName,polymorph,перетворення
 PropertyName,polymorph control,контроль перетворення
+PropertyName,pyrokinetic,
 PropertyName,quickness,швидкість
 PropertyName,rage,лють
 PropertyName,reflection,відображення
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",
@@ -4659,6 +4663,7 @@ SpecialName,midget,дрібний
 SpecialName,noble,шляхтич
 SpecialName,protagonist,протагоніст
 SpecialName,psychic,
+SpecialName,pyrokine,
 SpecialName,quantum,
 SpecialName,scholar,вчений
 SpecialName,shock,шок

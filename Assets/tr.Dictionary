@@ -398,6 +398,7 @@ AppearanceName,yellow potion,sarı iksir
 AppearanceName,yellowish brown gem,sarımsı kahverengi mücevher
 AppearanceName,zinc wand,çinko asa
 AppetiteName,content,memnun
+AppetiteName,engorged,
 AppetiteName,hungry,aç
 AppetiteName,satiated,tok
 AppetiteName,starving,açlıktan ölüyor
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,Etrafındaki herkes öfke ve şiddet tarafından yutulur. Normalda barışcıl olan canlılar bile birbirlerine saldırırlar. Bu özelliği dikkatli kullanmalısın. Besin seviyeni yavaşça emer.
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,Her an öfkeyle kendini kaybedebilecekmiş gibi dengesiz hissedersin.
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,Zindanın başka yerlerindeki canlıların varlıklarını farkedersin.
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,Eşyaların ilahilik durumlarını eline alarak öğrenirsin.
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,Garip bir sessizlikle yürür ve bir heceyi bile seslendiremezsin.
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,Kabiliyet puanların sabitlenir. Ne yükselebilirler ne de azalabilirler.
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,taşlaşma
 PropertyName,phasing,
 PropertyName,polymorph,şekil değiştirme
 PropertyName,polymorph control,şekil değiştirme kontrolü
+PropertyName,pyrokinetic,
 PropertyName,quickness,çabukluk
 PropertyName,rage,öfke
 PropertyName,reflection,yansıtma
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",
@@ -4659,6 +4663,7 @@ SpecialName,midget,
 SpecialName,noble,
 SpecialName,protagonist,
 SpecialName,psychic,
+SpecialName,pyrokine,
 SpecialName,quantum,
 SpecialName,scholar,
 SpecialName,shock,

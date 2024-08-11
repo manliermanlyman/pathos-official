@@ -398,6 +398,7 @@ AppearanceName,yellow potion,Lọ thuốc màu vàng
 AppearanceName,yellowish brown gem,Viên ngọc màu vàng nâu
 AppearanceName,zinc wand,Đũa phép kẽm
 AppetiteName,content,bình thường
+AppetiteName,engorged,
 AppetiteName,hungry,đói
 AppetiteName,satiated,no
 AppetiteName,starving,đang chết đói
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,Bạn khiến tất cả sinh vật xung quanh bạn đâm đầu vào hỗn loạn và bạo lực. Kể cả những sinh vật hiền lành cũng sẽ đánh lẫn nhau. Hiệu ứng vừa tốt vừa xấu này phải được sử dụng một cách cực kì cẩn trọng. Bạn cũng cảm thấy dinh dưỡng của bạn như bị đốt bởi hiệu ứng này.
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,Bạn cảm thấy bất an như kiểu cơn giận dữ sẽ nuốt chửng bạn bất kì lúc nào.
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,Bạn cảm thấy được những thực thể khác ở trong hầm ngục.
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,Bạn biết được tính thánh hóa của vật phẩm chỉ bằng cách nhặt nó lên.
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,Bạn di chuyển hoàn toàn im lặng và không thể nói được 1 từ nào cả.
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,Các chỉ số của bạn được bảo toàn nguyên vẹn khiến nó không thể bị giảm nhưng cũng không thể tăng.
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,hóa đá
 PropertyName,phasing,xuyên tường
 PropertyName,polymorph,biến hình
 PropertyName,polymorph control,điều khiển biến hình
+PropertyName,pyrokinetic,
 PropertyName,quickness,nhanh nhẹn
 PropertyName,rage,tức giận
 PropertyName,reflection,phản quang
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Những đầy tớ chung thành của nguyên tố thủy, họ có thể tạo ra những khối cầu phát nổ để tiêu diệt kẻ thù."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,Việc dành cả đời để học khiến bạn không đoái hoài gì đến tập thể dục hay những thói quen khác.
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"Những kẻ mắc hội chứng nhân vật chính luôn tưởng tượng rằng mình bất tử với 'plot armour', nhưng họ sớm muộn sẽ ăn trái đắng của thực tế thôi."
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","Không chắc chắn về vị trí của mình, bạn đã quen với việc có mặt ở mọi nơi và mọi nơi cùng một lúc."
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Được điêu khắc từ thủy tinh sống phản chiếu năng lượng và khúc xạ ánh sáng, bạn là sự mô phỏng hoàn hảo nhưng tinh tế của đối tác tự nhiên của bạn."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Dù không có thịt nhưng vẫn còn sống, con quái vật kì dị này có những lợi thế kiên cường."
@@ -4659,6 +4663,7 @@ SpecialName,midget,người tí hon
 SpecialName,noble,quý tộc
 SpecialName,protagonist,nhân vật chính
 SpecialName,psychic,thuật tâm linh
+SpecialName,pyrokine,
 SpecialName,quantum,lượng tử
 SpecialName,scholar,học sinh
 SpecialName,shock,điện

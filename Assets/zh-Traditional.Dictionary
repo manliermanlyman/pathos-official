@@ -398,6 +398,7 @@ AppearanceName,yellow potion,黃色藥水
 AppearanceName,yellowish brown gem,黃褐寶石
 AppearanceName,zinc wand,鋅制魔杖
 AppetiteName,content,滿足
+AppetiteName,engorged,
 AppetiteName,hungry,飢餓
 AppetiteName,satiated,飽食
 AppetiteName,starving,極餓
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,你導致地牢中所有生物變得憤怒而暴力，甚至平時溫順的生物都會攻擊彼此。這種能力既有用又危險，需要謹慎使用——同時你覺得你的營養值正被這種能力侵蝕。
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,你覺得情緒不穩定，就好像隨時能被暴怒控制一般。
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,你對於地牢之中的其他生物有了一份警戒心。
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,你只要把物品撿起來就可以得知它的的聖靈屬性。
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,你無聲無息地移動著，無法吐出一個音節。
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,你的能力值被固定，既不能被降低也不能提升。
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,石化
 PropertyName,phasing,相位轉移
 PropertyName,polymorph,變形
 PropertyName,polymorph control,變形控制
+PropertyName,pyrokinetic,
 PropertyName,quickness,迅捷
 PropertyName,rage,暴怒
 PropertyName,reflection,反射
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",與水球侍靈高度契合，他們可以召喚水球侍靈為他們而戰。
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,畢生的研習讓你把精力都放在了書本上，忽視了其他愛好以及身體鍛煉。
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,主角綜合征讓你堅信自己擁有主角光環，只是你的主角光環必須得通過一次現實的檢驗。
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",你無法確定自己的位置，已經適應了同時存在於任何地方的生活。
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,你的身體由活玻璃雕刻而成，完美地再現了你同族的模樣，能夠將光線與能量折射回去。
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",雖然身上一塊肉都沒有，但從某種意義上來說還算是活著。這種奇特的體質會為你帶來一些優勢。
@@ -4659,6 +4663,7 @@ SpecialName,midget,矮小侏儒
 SpecialName,noble,高雅貴族
 SpecialName,protagonist,主角光環
 SpecialName,psychic,窺密隱者
+SpecialName,pyrokine,
 SpecialName,quantum,混沌量子
 SpecialName,scholar,淵博學者
 SpecialName,shock,雷霆使者

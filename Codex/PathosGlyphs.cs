@@ -2391,6 +2391,7 @@ namespace Pathos
     public readonly Glyph telepathy_property;
     public readonly Glyph teleport_control_property;
     public readonly Glyph teleportation_property;
+    public readonly Glyph pyrokinetic_property;
     public readonly Glyph tunnelling_property;
     public readonly Glyph unchanging_property;
     public readonly Glyph warning_property;
@@ -2653,6 +2654,7 @@ namespace Pathos
     public readonly Glyph midget;
     public readonly Glyph noble;
     public readonly Glyph protagonist;
+    public readonly Glyph pyrokine;
     public readonly Glyph scholar;
     public Glyph drunkard_special => brown_potion;
     public Glyph psychic_special => psychic_strike;

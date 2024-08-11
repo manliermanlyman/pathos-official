@@ -324,6 +324,12 @@ namespace Pathos
         P.CorporealShifting = true;
       });
 
+      pyrokinetic = AddProperty("pyrokinetic", P =>
+      {
+          P.Description =
+          "You have gained the ability to control fire.";
+      });
+
       quickness = AddProperty("quickness", P =>
       {
         P.Description = "This enhancement to your speed allows you to move and attack more often.";
@@ -544,6 +550,7 @@ namespace Pathos
     public readonly Property phasing;
     public readonly Property polymorph;
     public readonly Property polymorph_control;
+    public readonly Property pyrokinetic;
     public readonly Property quickness;
     public readonly Property rage;
     public readonly Property reflection;

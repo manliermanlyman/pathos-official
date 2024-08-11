@@ -398,6 +398,7 @@ AppearanceName,yellow potion,жёлтое зелье
 AppearanceName,yellowish brown gem,желтовато-коричневый самоцвет
 AppearanceName,zinc wand,цинковая палочка
 AppetiteName,content,удовлетворённый
+AppetiteName,engorged,
 AppetiteName,hungry,голодный
 AppetiteName,satiated,сытый
 AppetiteName,starving,истощённый
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,Вы внушаете всем окружающим чувство агрессии и жестокости. Ранее мирные существа начинают атаковать других. Обе стороны этого свойства могут быть использованы при опасности. Вы можете почувствовать нарастающее чувство голода при приобретении этого свойства.
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,Вы чувствуете себя неуравновешенным и в любой момент можете впасть в ярость.
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,Вы предупреждены о присутствии других существ на данном уровне.
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,"Вы определяете духовный статус вещи, просто подняв её."
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,Вы двигаетесь в жуткой тишине и не можете произнести ни одного слова вслух.
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,"Ваши характеристики закрепляются таким образом, что они не способны как ухудшиться, так и улучшиться."
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,окаменение
 PropertyName,phasing,фазирование
 PropertyName,polymorph,превращение
 PropertyName,polymorph control,контроль превращения
+PropertyName,pyrokinetic,
 PropertyName,quickness,проворство
 PropertyName,rage,ярость
 PropertyName,reflection,отражение
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Очень чуткие прислужники стихии воды, они могут призывать взрывные сферы, чтобы уничтожать своих врагов."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,Во время учёбы вы сосредоточились на изучении книг в ущерб другим увлечениям и физической форме.
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"Синдром главного героя привёл к тому, что он полагается на сюжетную броню, но ему суждено пройти серьёзную проверку реальностью."
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","Без чёткого ощущения себя в пространстве, вы привыкли ощущать себя везде и всюду одновременно."
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Созданный из живого стекла, отражающего энергию и свет, вы представляете собой идеальную, но хрупкую копию на себя настоящего."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Каким-то образом всё ещё живое, хотя и без плоти, необходимой для того, чтобы жить по-настоящему, это своеобразное существование имеет некоторые преимущества."
@@ -4659,6 +4663,7 @@ SpecialName,midget,карлик
 SpecialName,noble,знатный
 SpecialName,protagonist,протагонист
 SpecialName,psychic,медиум
+SpecialName,pyrokine,
 SpecialName,quantum,квант
 SpecialName,scholar,учёный
 SpecialName,shock,разряд

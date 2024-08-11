@@ -153,6 +153,16 @@ namespace Pathos
         S.Startup.SetTalent(Properties.telepathy, Properties.telekinesis, Properties.clairvoyance, Properties.hunger);
       });
 
+      this.pyrokine = AddSpecial("pyrokine", S =>
+      {
+        S.Description = "One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.";
+        S.Glyph = Glyphs.pyrokine;
+
+        S.Startup.SetTalent(Properties.pyrokinetic, Properties.hunger);
+        S.Startup.SetResistance(Elements.fire);
+         
+      });
+
       this.quantum = AddSpecial("quantum", S =>
       {
         S.Description = "Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.";
@@ -280,6 +290,7 @@ namespace Pathos
     public readonly Special shock;
     public readonly Special earth;
     public readonly Special water;
+    public readonly Special pyrokine;
     //public readonly Special werejackal;
     //public readonly Special werepanther;
     //public readonly Special wererat;

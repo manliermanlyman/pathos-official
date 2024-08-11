@@ -398,6 +398,7 @@ AppearanceName,yellow potion,黄色い液体の入った小瓶
 AppearanceName,yellowish brown gem,黄褐色の宝石
 AppearanceName,zinc wand,亜鉛の棒
 AppetiteName,content,満足
+AppetiteName,engorged,
 AppetiteName,hungry,空腹
 AppetiteName,satiated,満腹
 AppetiteName,starving,飢餓
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,辺り一面が不条理な暴力に覆われ、通常平和的なモンスター達もお互いに攻撃しあう事になる。利便性と危険性を併せ持つ性質であり、慎重に用いられるべきである。この性質を持っていると腹の減りが早いように感じる。
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,気分が落ち着かず、いつ激昂してしまうかわからない。
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,同じ階層にいるモンスターを認識できる。
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,アイテムを拾っただけでその祝呪が分かるようになる。
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,不気味な静けさに包まれ、一言も発することができない。
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,能力値が固定され、向上することも低下することもない。
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,石化
 PropertyName,phasing,幽体化
 PropertyName,polymorph,変化
 PropertyName,polymorph control,変化制御
+PropertyName,pyrokinetic,
 PropertyName,quickness,加速
 PropertyName,rage,激昂
 PropertyName,reflection,反射
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",水の精霊に付き従い、敵を打ち滅ぼすため爆発する球を召喚することができる。
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,ほかの道楽や運動なんてそっちのけ、人生を学問に捧げてきた本の虫。
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,こじらせた主人公補正に頼って生きてきたが、その運命は厳しい現実にさらされることになる。
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",位置が不確定で、同時にどこへでも存在することが普通になっている。
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,エネルギーを反射し光を屈折させる生きたガラスから削りだされた。オリジナルのモンスターを完璧に模倣しているが、繊細である。
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",本来なくてはならない血肉を持たずしてなぜか生きている、この奇怪な存在には幾分かの長所がある。
@@ -4659,6 +4663,7 @@ SpecialName,midget,小人
 SpecialName,noble,貴族
 SpecialName,protagonist,主人公
 SpecialName,psychic,サイキック
+SpecialName,pyrokine,
 SpecialName,quantum,量子化
 SpecialName,scholar,学者
 SpecialName,shock,電撃属性

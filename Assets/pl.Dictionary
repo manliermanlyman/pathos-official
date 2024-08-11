@@ -398,6 +398,7 @@ AppearanceName,yellow potion,żółta mikstura
 AppearanceName,yellowish brown gem,żółtobrązowy klejnot
 AppearanceName,zinc wand,cynkowa różdżka
 AppetiteName,content,treść
+AppetiteName,engorged,
 AppetiteName,hungry,głodny
 AppetiteName,satiated,nasycony
 AppetiteName,starving,głodujący
@@ -4141,6 +4142,7 @@ PropertyDescription,You can transform into the entity of your choice when you ha
 PropertyDescription,You cause all around you to devolve into aggression and violence. Even normally peaceful entities will attack each other. Both useful and dangerous this property should be used with caution. You also feel that your nutrition levels are being sapped by this property.,"Powodujesz, że wszystko dookoła Ciebie zaczyna popadać w agresję i przemoc. Nawet normalnie pokojowe jednostki będą atakować siebie nawzajem. Zarówno użyteczne i niebezpieczne właściwości te powinny być stosowane z ostrożnością. Czujesz również, że twoje poziomy żywieniowe są sapped przez tę właściwość."
 PropertyDescription,You feel unstable like you could be consumed with rage at any time.,"Czujesz się niestabilny, jakby w każdej chwili mógł cię ogarnąć gniew."
 PropertyDescription,You have an awareness of other entities elsewhere in the dungeon.,Masz świadomość istnienia innych jednostek w lochu.
+PropertyDescription,You have gained the ability to control fire.,
 PropertyDescription,You learn the divine status of an item simply by picking it up.,Boski status przedmiotu poznaje się po prostu przez podniesienie go.
 PropertyDescription,You move in eerie silence and cannot utter even a single syllable out loud.,Poruszasz się w niesamowitej ciszy i nie możesz wypowiedzieć nawet jednej sylaby na głos.
 PropertyDescription,Your ability scores are fixed so they cannot degrade but also cannot improve.,"Twoje wyniki umiejętności są stałe, więc nie mogą się pogorszyć, ale też nie mogą się poprawić."
@@ -4188,6 +4190,7 @@ PropertyName,petrifying,petryfikacja
 PropertyName,phasing,phasing
 PropertyName,polymorph,przeobrażenie
 PropertyName,polymorph control,kontrolowane przeobrażenie
+PropertyName,pyrokinetic,
 PropertyName,quickness,szybkość
 PropertyName,rage,wściekłość
 PropertyName,reflection,refleksja
@@ -4643,6 +4646,7 @@ SpecialDescription,"Highly attuned servants of elemental shock, they can conjure
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Wysoce dostrojeni słudzy żywiołu wody, potrafią wyczarować eksplodujące kule, aby zniszczyć swoich wrogów"
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,Całe życie studiów skupiło Twoją naukę na książkach kosztem innych zainteresowań i sprawności fizycznej.
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"Syndrom głównego bohatera zaowocował poleganiem na zbroi fabularnej, ale są one przeznaczone do poważnego sprawdzenia rzeczywistości."
+SpecialDescription,One resurrected by the Red Church's god in order to enact divine retribution. Your existence is far from natural and comes at a great cost.,
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","W jakiś sposób wciąż żywy, choć bez ciała wymaganego do prawdziwego życia, ta osobliwa egzystencja ma pewne zalety."
@@ -4659,6 +4663,7 @@ SpecialName,midget,karłówka
 SpecialName,noble,szlachetny
 SpecialName,protagonist,protagonista
 SpecialName,psychic,medium
+SpecialName,pyrokine,
 SpecialName,quantum,
 SpecialName,scholar,naukowiec
 SpecialName,shock,wstrząs
